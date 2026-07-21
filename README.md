@@ -1,53 +1,80 @@
-<h1 align="center">Hi, I'm Gaurav Rawat 👋</h1>
+<div align="center">
 
-<p align="center">
-🚀 Full Stack Developer &nbsp;|&nbsp; 💻 JavaScript, Node.js, React &nbsp;|&nbsp; 🌱 Learning by building real-world projects
-</p>
+# Gaurav Rawat
 
-<p align="center">
-  <a href="https://www.gauravdot.in/"><img src="https://img.shields.io/badge/Website-gauravdot.in-1f6feb?style=flat-square" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/gauravdotio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gauravdotio@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+**Full Stack Developer** building end-to-end web apps — REST APIs, auth systems, and the UIs that talk to them.
 
----
+[![Website](https://img.shields.io/badge/-gauravdot.in-1f2937?style=for-the-badge&logo=todoist&logoColor=white)](https://www.gauravdot.in/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravdotio/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravdotio@gmail.com)
 
-### 🛠️ Tech Stack
+</div>
 
+<br/>
+
+## 🧰 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages & Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+**Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
----
+</td>
+</tr>
+</table>
 
-### 📌 Featured Project
+<br/>
 
-**[DevBlog CMS](https://github.com/gauravdotio/blog-cms-1)** — A full-stack Blog/CMS REST API with JWT authentication, role-based access control, resource ownership, limit-offset pagination, and a built-in interactive dashboard.
+## 📌 Featured Project
 
-🔗 Live demo: [blog-cms-1-b5l2.onrender.com](https://blog-cms-1-b5l2.onrender.com/)
+### [DevBlog CMS](https://github.com/gauravdotio/blog-cms-1)
+A full-stack Blog/CMS REST API — JWT authentication, role-based access control, resource ownership, limit-offset pagination, and a built-in interactive dashboard.
 
----
+`Node.js` `Express` `MongoDB` `Mongoose` `JWT` `bcrypt` `express-validator`
 
-### 📊 GitHub Stats
+**[🔗 Live Demo](https://blog-cms-1-b5l2.onrender.com/)** &nbsp;·&nbsp; **[📄 Source Code](https://github.com/gauravdotio/blog-cms-1)**
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravdotio&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Gaurav's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdotio&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravdotio&hide_border=true&theme=default" alt="GitHub Streak"/>
-</p>
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravdotio&theme=github-compact&hide_border=true" alt="Activity Graph" width="90%"/>
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravdotio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdotio&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+</div>
 
----
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=gauravdotio&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
-<p align="center"><i>Open to full-stack developer opportunities — feel free to reach out!</i></p>
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdotio/gauravdotio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdotio/gauravdotio/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/gauravdotio/gauravdotio/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<br/>
+
+<div align="center">
+<i>Open to full-stack developer opportunities — feel free to reach out!</i>
+</div>
