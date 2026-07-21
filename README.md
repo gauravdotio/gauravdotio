@@ -63,18 +63,6 @@ A full-stack Blog/CMS REST API — JWT authentication, role-based access control
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravdotio/gauravdotio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravdotio/gauravdotio/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/gauravdotio/gauravdotio/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-<br/>
-
 <div align="center">
 <i>Open to full-stack developer opportunities — feel free to reach out!</i>
 </div>
