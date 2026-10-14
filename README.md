@@ -1,12 +1,10 @@
-<!-- ════════════════════════════ HEADER ════════════════════════════ -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gaurav%20Rawat&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20SaaS%20%E2%80%A2%20AI-powered%20products&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gaurav Rawat" />
+  <img src="./assets/header.svg" width="100%" alt="Gaurav Rawat — Full Stack Developer" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+multi-tenant+SaaS+with+Next.js+%2B+TypeScript;Postgres+%E2%80%A2+Prisma+%E2%80%A2+Auth.js+%E2%80%A2+RBAC;Shipping+AI+features+with+Gemini+%2B+Vercel+AI+SDK;Secure+by+default.+Tested.+Deployed." alt="Typing SVG" />
-  </a>
+  <img src="./assets/typing.svg" alt="Full-stack developer: React, Next.js &amp; Node.js — REST APIs &amp; PostgreSQL — multi-tenant SaaS — AI features" />
 </p>
 
 <p align="center">
@@ -112,12 +110,6 @@ An expense tracker built for **small shop owners in India**. Snap a photo of a b
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravdotio&theme=tokyonight" alt="Contribution activity" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=gauravdotio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
 </p>
 
 ### 🐍 Contribution Snake
