@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="651" height="60" viewBox="0 0 651 60" role="img" aria-label="Full-stack developer: React, Next.js &amp; Node.js | Designing REST APIs &amp; PostgreSQL schemas | Building multi-tenant SaaS with auth &amp; RBAC | Shipping AI features with Gemini &amp; RAG">
+  <style>
+    .t{font:600 20px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;fill:#e6edf3}
+    .p{font:700 20px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;fill:#22c55e}
+  </style>
+  <rect x="0.5" y="0.5" width="650" height="59" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text class="p" x="24" y="37">❯</text>
+  <clipPath id="c0"><rect x="58" y="10" height="40" width="0"><animate attributeName="width" values="0;557;557;0;0" keyTimes="0;0.1;0.2125;0.2375;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  <text class="t" x="58" y="37" clip-path="url(#c0)">Full-stack developer: React, Next.js &amp; Node.js</text>
+  <rect width="2.5" height="24" y="18" fill="#a78bfa" x="58" opacity="0">
+    <animate attributeName="x" values="58;615;615;58;58" keyTimes="0;0.1;0.2125;0.2375;1" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;0.2425" dur="16s" repeatCount="indefinite"/>
+  </rect>
+  <clipPath id="c1"><rect x="58" y="10" height="40" width="0"><animate attributeName="width" values="0;0;485;485;0;0" keyTimes="0;0.25;0.35;0.4625;0.4875;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  <text class="t" x="58" y="37" clip-path="url(#c1)">Designing REST APIs &amp; PostgreSQL schemas</text>
+  <rect width="2.5" height="24" y="18" fill="#a78bfa" x="58" opacity="0">
+    <animate attributeName="x" values="58;58;543;543;58;58" keyTimes="0;0.25;0.35;0.4625;0.4875;1" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.25;0.4925" dur="16s" repeatCount="indefinite"/>
+  </rect>
+  <clipPath id="c2"><rect x="58" y="10" height="40" width="0"><animate attributeName="width" values="0;0;521;521;0;0" keyTimes="0;0.5;0.6;0.7125;0.7375;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  <text class="t" x="58" y="37" clip-path="url(#c2)">Building multi-tenant SaaS with auth &amp; RBAC</text>
+  <rect width="2.5" height="24" y="18" fill="#a78bfa" x="58" opacity="0">
+    <animate attributeName="x" values="58;58;579;579;58;58" keyTimes="0;0.5;0.6;0.7125;0.7375;1" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.5;0.7425" dur="16s" repeatCount="indefinite"/>
+  </rect>
+  <clipPath id="c3"><rect x="58" y="10" height="40" width="0"><animate attributeName="width" values="0;0;461;461;0;0" keyTimes="0;0.75;0.85;0.9625;0.9875;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  <text class="t" x="58" y="37" clip-path="url(#c3)">Shipping AI features with Gemini &amp; RAG</text>
+  <rect width="2.5" height="24" y="18" fill="#a78bfa" x="58" opacity="0">
+    <animate attributeName="x" values="58;58;519;519;58;58" keyTimes="0;0.75;0.85;0.9625;0.9875;1" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.75;0.9925" dur="16s" repeatCount="indefinite"/>
+  </rect>
+</svg>
