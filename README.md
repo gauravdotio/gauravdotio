@@ -13,7 +13,6 @@
   <a href="https://www.gauravdot.in/"><img src="https://img.shields.io/badge/Portfolio-gauravdot.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/gauravdotio/"><img src="https://img.shields.io/badge/LinkedIn-gauravdotio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gauravdotio@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=gauravdotio&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <p align="center">
